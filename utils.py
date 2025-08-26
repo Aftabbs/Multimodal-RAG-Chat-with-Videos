@@ -6,7 +6,7 @@ from io import StringIO, BytesIO
 import textwrap
 from typing import Iterator, TextIO, List, Dict, Any, Optional, Sequence, Union
 from enum import auto, Enum      
-import base64  
+import base64   
 import glob
 from tqdm import tqdm
 from pytubefix import YouTube, Stream
